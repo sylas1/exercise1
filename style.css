@@ -1,0 +1,77 @@
+body{
+	color: #000000;
+	margin: 0;
+	text-align: center;
+	font-family: Arial;
+}
+h1{
+	color:#FF0004;
+	font-size: 6rem;
+	margin: 50px auto 0 auto;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+h2{
+	color:#D42CFF;
+	font-size: 5rem;
+	margin: 50px auto 0 auto;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+h3{
+	color:#FC6668;
+	font-size: 5rem;
+	font-size: 50px auto 0 auto;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+p{
+	color: #090808;
+}
+.top-container{
+	background-color: aqua;
+	position: relative;
+	padding-top: 100px;
+}
+.mid-container{
+	background-color:antiquewhite;
+	
+}
+.botton-container{
+	background-color: #91FF8D;
+	padding: 50px 0 20 px;
+}
+.btn{
+	background: #11cdd4;
+	background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover{
+	background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.contact-message{
+	width: 40%;
+	margin: 40px auto 60px;
+}
+.copyright{
+	width: 40%;
+	margin: 40px auto 60px;
+}
+.footer-link{
+	color: #FFC143;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
